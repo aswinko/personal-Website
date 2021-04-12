@@ -746,6 +746,9 @@ footer span a:hover{
     .services .ser-content .card{
         width: 100%;
     }
+    .about .about-content .right .text{
+    font-size: 20px;
+    }
 
 }
 
